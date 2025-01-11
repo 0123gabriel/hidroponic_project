@@ -4,4 +4,4 @@ This project focused on the automated control of a hydroponic garden, emphasizin
 
 ## Important Documentation
 
-- (UPS) [https://wiki.52pi.com/index.php/EP-0136]
+- [UPS] (https://wiki.52pi.com/index.php/EP-0136)
